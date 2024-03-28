@@ -3,3 +3,52 @@ body {
   height: 100%;
   margin: 0;
 }
+/* move header center of page */
+h1 {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+nav{
+  text-align: center;
+  margin: auto;
+}
+nav a {
+ margin: auto;
+ text-align: center;
+ padding-left: 10px;
+ padding-right: 10px;
+ background-color: chartreuse;
+}
+figure {
+  text-align: center;
+}
+figcaption {
+  text-align: center;
+  font-size: 14px;
+}
+#featured-property p {
+  text-align: center;
+  width: 800px;
+  margin: 10px auto;
+}
+
+div {
+  display: inline-block;
+  margin:  auto;
+  text-align: center;
+  width: 25%;
+  background-color: red;
+
+ }
+#details div{
+  float: left;
+}
+
+a{
+  text-align: center;
+}
+p{
+  text-align: center;
+  margin: auto;
+}
